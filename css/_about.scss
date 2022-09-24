@@ -1,0 +1,15 @@
+.about {
+    padding-bottom: 107px;
+    background-color: #F6F6F6;
+
+    &__title {
+        padding-top: 120px;
+    }
+
+    &__subtitle {
+        font-size: 18px;
+        line-height: 22px;
+        text-align: center;
+        font-weight: 500;
+    }
+}
